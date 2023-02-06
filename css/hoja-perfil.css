@@ -1,0 +1,52 @@
+#navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+body {
+    background: linear-gradient(180deg, #043559, #1165A3);
+    /*2D75AA*/
+}
+
+#btn-color {
+    background-color: #2D8DD4;
+    color: black;
+    border-color: #043559;
+    width: 60%;
+}
+
+#btn-color:hover {
+    background-color: #175079;
+    color: white;
+    border-color: black;
+}
+
+#card{
+    color: #000;
+}
+
+#contac{
+    text-decoration: none;
+    color: #fff;
+}
+
+#forms{
+    padding-top: 50px;
+    color: #fff;
+    padding-block-end: 75px;
+}
+
+#h{
+    padding-top: 50px;
+    color: #fff;
+}
+
+#image{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-block-end: 15px;
+    height: 38%;
+    width: 38%;
+}

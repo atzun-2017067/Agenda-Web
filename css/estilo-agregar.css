@@ -1,0 +1,9 @@
+#forms{
+    padding-top: 75px;
+}
+
+#navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}

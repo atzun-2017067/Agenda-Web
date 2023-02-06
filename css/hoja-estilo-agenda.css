@@ -1,0 +1,44 @@
+#card-image {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 38%;
+    width: 38%;
+    display: block;
+    margin: auto;
+    border-radius: 40px;
+    
+}
+
+#navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+body {
+    background: linear-gradient(180deg, #043559, #1165A3);
+    /*2D75AA*/
+}
+
+#btn-color {
+    background-color: #2D8DD4;
+    color: black;
+    border-color: #043559;
+    width: 60%;
+}
+
+#btn-color:hover {
+    background-color: #175079;
+    color: white;
+    border-color: black;
+}
+
+#card{
+    background-color: rgba(240, 248, 255, 0);
+    border-color: #04365900;
+}
+
+#contac{
+    text-decoration: none;
+    color: #fff;
+}
